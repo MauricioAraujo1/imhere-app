@@ -23,7 +23,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 ```
-https://github.com/MauricioAraujo1/PokeApp.git
+https://github.com/MauricioAraujo1/imhere-app.git
 ```
 
 <h3>🧭 Rodando a aplicação mobile</h3>
@@ -31,12 +31,12 @@ https://github.com/MauricioAraujo1/PokeApp.git
 <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
 ```
-cd pokerub
+cd imhere-app
 npm install
-npm start
+code .
 
 ```
-<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa instalar no seu Android o aplicativo Expo Go, e logar na sua conta ou criar. Depois disso, você vai no terminal do seu vscode e escreva: npm start ou expo start, caso vc ja tenha o expo instalado. Caso não consiga instalar o expo, basta acessar o link da documentção que explica passo a passo a como instalar o expo, e também recomendo você utilizar o managed, foi esse que utilizei!</span>
+<span class="pl-c"><span class="pl-c">#</span>Depois de ter aberto o projeto no vscode, você precisa instalar no seu Android o aplicativo Expo Go, e logar na sua conta ou criar. Depois disso, você vai no terminal do seu vscode e escreva: expo start, caso vc ja tenha o expo instalado. Caso não consiga instalar o expo, basta acessar o link da documentção que explica passo a passo a como instalar o expo, e também recomendo você utilizar o managed, foi esse que utilizei! Também você poderá usar a a plicação através do emulador do Android Studio</span>
 
 ```
 https://docs.expo.dev/
