@@ -42,11 +42,11 @@ code .
 https://docs.expo.dev/
 ```
 
-<h3>🧭 Essas são algumas imagens do projeto funcionado no meu dispositivo Android: </h3>
+# 🤝 Suporte 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Deliveries/issues).
 
-<p align="center">
-  <img src="./imgs_rep/1.jpeg" width="200px" />  <img src="./imgs_rep/2.jpeg" width="200px" />  <img src="./imgs_rep/3.jpeg" width="200px" />
-</p>
-<p align="center">
-  <img src="./imgs_rep/4.jpeg" width="200px" />  <img src="./imgs_rep/5.jpeg" width="200px" />  <img src="./imgs_rep/6.jpeg" width="200px" />
-</p>
+# 👤 Autor
+**🕵 Maurício Araújo**
+
+* Github: [MauricioAraujo1](https://github.com/MauricioAraujo1)
+* LinkedIn: [@mauricioarj1](https://linkedin.com/in/mauricioarj1)
