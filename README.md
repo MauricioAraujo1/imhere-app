@@ -43,7 +43,7 @@ https://docs.expo.dev/
 ```
 
 # 🤝 Suporte 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Deliveries/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/imhere-app/issues).
 
 # 👤 Autor
 **🕵 Maurício Araújo**
